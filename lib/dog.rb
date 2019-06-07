@@ -1,2 +1,3 @@
-class D
+class Dog 
+  
   
